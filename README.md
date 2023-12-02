@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-173.8%20thousand%20lines%20of%20code-blue)
@@ -87,5 +85,5 @@ Java                     2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/jrsalgado/jrsalgado/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2023 06:16:07 UTC
+ Last Updated on 02/12/2023 06:14:18 UTC
 <!--END_SECTION:waka-->
