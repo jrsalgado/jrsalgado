@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 > 📦 57.5 kB Used in GitHub's Storage 
  > 
-> 🏆 361 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 35 Public Repositories 
@@ -87,5 +85,5 @@ CSS                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/jrsalgado/jrsalgado/main/assets/bar_graph.png)
 
 
- Last Updated on 14/12/2024 06:04:31 UTC
+ Last Updated on 15/12/2024 06:04:13 UTC
 <!--END_SECTION:waka-->
